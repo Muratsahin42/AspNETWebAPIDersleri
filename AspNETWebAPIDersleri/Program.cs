@@ -36,7 +36,7 @@ app.UseCors("AllowAll");
 
 app.Run();
 
-
+app.UseStaticFiles();
 // Servisleri ekle
 builder.Services.AddControllers();
 // Middleware'leri ekle
@@ -48,7 +48,4 @@ app.MapGet("/", () => "API çalýþýyor!");
 
 // Controller endpoint'leri
 app.MapControllers();
-app.UseStaticFiles();
-
-
 app.Run();

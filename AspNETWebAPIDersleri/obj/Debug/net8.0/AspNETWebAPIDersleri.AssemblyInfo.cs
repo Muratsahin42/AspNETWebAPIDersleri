@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNETWebAPIDersleri")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f7ad4f30d93c03b7a1f77085c2572ba2de6c4cd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b3ed7ad7d63d9a49b082faf77e839f3ff801208")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNETWebAPIDersleri")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNETWebAPIDersleri")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

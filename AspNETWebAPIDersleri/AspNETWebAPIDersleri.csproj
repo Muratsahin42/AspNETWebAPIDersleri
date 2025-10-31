@@ -13,9 +13,4 @@
   <ItemGroup>
     <ProjectReference Include="..\LMS.Data\LMS.Data.csproj" />
   </ItemGroup>
-  <ItemGroup>
-  <Content Include="wwwroot\**">
-    <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-  </Content>
-</ItemGroup>
 </Project>
