@@ -18,11 +18,6 @@ C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\ob
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\AspNETWebAPIDersleri.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\staticwebassets\msbuild.AspNETWebAPIDersleri.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\staticwebassets\msbuild.build.AspNETWebAPIDersleri.props
-C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AspNETWebAPIDersleri.props
-C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AspNETWebAPIDersleri.props
-C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\scopedcss\bundle\AspNETWebAPIDersleri.styles.css
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\AspNETWe.5136C97B.Up2Date
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\AspNETWebAPIDersleri.dll
@@ -35,3 +30,12 @@ C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bi
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Debug\net8.0\LMS.Data.dll
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Debug\net8.0\LMS.Data.pdb
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Debug\net8.0\AspNETWebAPIDersleri.staticwebassets.endpoints.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\AspNETWebAPIDersleri.sourcelink.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

@@ -10,3 +10,4 @@ C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\LMS.Data\obj\Debug\net8
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\LMS.Data\obj\Debug\net8.0\refint\LMS.Data.dll
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\LMS.Data\obj\Debug\net8.0\LMS.Data.pdb
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\LMS.Data\obj\Debug\net8.0\ref\LMS.Data.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\LMS.Data\obj\Debug\net8.0\LMS.Data.sourcelink.json

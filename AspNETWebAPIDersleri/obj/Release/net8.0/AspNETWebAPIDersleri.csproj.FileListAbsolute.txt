@@ -31,10 +31,10 @@ C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\ob
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\staticwebassets.build.json.cache
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\staticwebassets.development.json
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\staticwebassets.build.endpoints.json
-C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\AspNETWe.5136C97B.Up2Date
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\AspNETWebAPIDersleri.dll
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\refint\AspNETWebAPIDersleri.dll
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\AspNETWebAPIDersleri.pdb
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\AspNETWebAPIDersleri.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\ref\AspNETWebAPIDersleri.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\AspNETWebAPIDersleri.sourcelink.json

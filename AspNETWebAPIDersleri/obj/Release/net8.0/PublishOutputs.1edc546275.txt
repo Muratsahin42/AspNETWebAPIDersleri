@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\AspNETWebAPIDersleri.exe
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\AspNETWebAPIDersleri.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\AspNETWebAPIDersleri.deps.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\AspNETWebAPIDersleri.runtimeconfig.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\AspNETWebAPIDersleri.pdb
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\LMS.Data.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\publish\LMS.Data.pdb

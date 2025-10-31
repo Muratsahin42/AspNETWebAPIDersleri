@@ -17,6 +17,7 @@ builder.Services.AddCors(options =>
     });
 });
 
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -32,5 +33,22 @@ app.UseAuthorization();
 
 app.MapControllers();
 app.UseCors("AllowAll");
+
+app.Run();
+
+
+// Servisleri ekle
+builder.Services.AddControllers();
+// Middleware'leri ekle
+app.UseRouting();
+app.UseAuthorization();
+
+// Test endpoint
+app.MapGet("/", () => "API çalýþýyor!");
+
+// Controller endpoint'leri
+app.MapControllers();
+app.UseStaticFiles();
+
 
 app.Run();
