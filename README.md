@@ -1,1 +1,1 @@
-# Fix secrets 
+# Fix FTP_SERVER secret 
