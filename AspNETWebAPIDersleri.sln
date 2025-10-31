@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AspNETWebAPIDersleri", "AspNETWebAPIDersleri\AspNETWebAPIDersleri.csproj", "{EAE9A563-EC12-424E-A97D-528E2F0B2871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LMS.Data", "LMS.Data\LMS.Data.csproj", "{B526F7CA-E1D0-4FEB-81A8-A9D3FF3AEF3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE9A563-EC12-424E-A97D-528E2F0B2871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE9A563-EC12-424E-A97D-528E2F0B2871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE9A563-EC12-424E-A97D-528E2F0B2871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE9A563-EC12-424E-A97D-528E2F0B2871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B526F7CA-E1D0-4FEB-81A8-A9D3FF3AEF3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B526F7CA-E1D0-4FEB-81A8-A9D3FF3AEF3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B526F7CA-E1D0-4FEB-81A8-A9D3FF3AEF3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B526F7CA-E1D0-4FEB-81A8-A9D3FF3AEF3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9351F632-FCC9-42CF-9DDD-C0166D49E953}
+	EndGlobalSection
+EndGlobal
