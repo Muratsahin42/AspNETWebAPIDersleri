@@ -6,10 +6,10 @@ on:
       - main
 
 jobs:
-  ftp-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v3
 
       - name: Setup .NET
@@ -17,14 +17,14 @@ jobs:
         with:
           dotnet-version: '8.0.x'
 
-      - name: Publish project
-        run: dotnet publish AspNETWebAPIDersleri/AspNETWebAPIDersleri.csproj -c Release -o publish/
+      - name: Publish
+        run: dotnet publish -c Release -o publish
 
       - name: FTP Deploy
-        uses: SamKirkland/FTP-Deploy-Action@4.3.0
+        uses: SamKirkland/FTP-Deploy-Action@v4
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
+          server: ftpupload.net
+          username: if0_40307203
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: publish/
-          server-dir: /htdocs/
+          server-dir: /benimsayfam.gt.tc/htdocs/
+          local-dir: publish
