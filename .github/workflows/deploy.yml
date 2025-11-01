@@ -27,4 +27,4 @@ jobs:
           username: if0_40307203
           password: ${{ secrets.FTP_PASSWORD }}
           server-dir: /benimsayfam.gt.tc/htdocs/
-          local-dir: publish
+          local-dir: publish/
