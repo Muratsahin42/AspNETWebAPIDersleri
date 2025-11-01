@@ -21,7 +21,7 @@ jobs:
         run: dotnet publish -c Release -o publish
 
       - name: FTP Deploy
-        uses: SamKirkland/FTP-Deploy-Action@v4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ftpupload.net
           username: if0_40307203
