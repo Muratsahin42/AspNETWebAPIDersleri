@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\AspNETWebAPIDersleri.exe
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\appsettings.Development.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\appsettings.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\AspNETWebAPIDersleri.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\AspNETWebAPIDersleri.deps.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\AspNETWebAPIDersleri.runtimeconfig.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\AspNETWebAPIDersleri.pdb
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\LMS.Data.dll
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\publish\LMS.Data.pdb

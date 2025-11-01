@@ -38,3 +38,4 @@ C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\ob
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\AspNETWebAPIDersleri.genruntimeconfig.cache
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\ref\AspNETWebAPIDersleri.dll
 C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\obj\Release\net8.0\AspNETWebAPIDersleri.sourcelink.json
+C:\Users\Administrator\source\repos\AspNETWebAPIDersleri\AspNETWebAPIDersleri\bin\Release\net8.0\AspNETWebAPIDersleri.staticwebassets.runtime.json
